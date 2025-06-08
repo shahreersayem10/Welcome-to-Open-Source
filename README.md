@@ -4591,7 +4591,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/Atharvakumkar">
-                    <img src="https://github.com/account" width="100px;" alt="Atharva"/>
+                    <mg src="https://github.com/account" width="100px;" alt="Atharva"/>
                     <br />
                     <sub><b> Atharva Kumkar </b></sub>
                 </a>
